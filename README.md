@@ -1,10 +1,6 @@
 # DiscordSMSBomber
 Here comes our new NTCSMSBomber, it will spam your friend's NTC SIM with tons of sms within several secons. 
 
->command 
->-help
->-bomb <number>
-
 Join this discord server to use the tool.
 --------???????---------
 
